@@ -1,6 +1,4 @@
-Privacy Policy
-
-Privacy Policy
+#Privacy Policy
 
 These privacy policies describe how we process and protect your personal data when using our application.
 
