@@ -1,4 +1,4 @@
-# ACRapp Privacy Policy
+Privacy Policy
 
 Privacy Policy
 
